@@ -14,7 +14,7 @@ The pipeline implements an end-to-end workflow designed for production-grade net
 
 * **Dynamic Feature Engineering**: Employs decision-tree-based importance analysis to isolate the most predictive features, such as TCP window sizes and packet length statistics, tailored to specific traffic compositions.
 
-* **Behavioral Profiling**: Implements unsupervised **K-Means clustering** ($k=3$, selected after hypertuning, focused faouring operational usability) to segment traffic into distinct behavioral archetypes, generating "fingerprints" for diverse attack variants.
+* **Behavioral Profiling**: Implements unsupervised **K-Means clustering** ($k=3$, selected after hypertuning, focused on favouring operational usability) to segment traffic into distinct behavioral archetypes, generating "fingerprints" for diverse attack variants.
 
 * **Mitigation Recommendation**: Utilizes **Alternating Least Squares (ALS)** collaborative filtering to map discovered threat profiles to verified mitigation strategies, automating the security response workflow.
 
