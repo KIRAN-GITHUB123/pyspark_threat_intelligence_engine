@@ -1,5 +1,7 @@
 # Proactive Threat Intelligence & Behavior Profiling Engine
 
+> **Note:** This repository contains the raw, single-file research prototype developed for the educational purposes only. It is provided as proof-of-execution for the underlying logic, parallel compute architecture, and algorithmic heuristics. The system is currently being modularized into a production-ready microservice architecture.
+
 ## Overview
 
 This repository contains a scalable, multi-stage data analytics pipeline designed to transform massive volumes of network traffic into actionable cybersecurity intelligence. Developed as part of a research project on proactive vulnerability discovery, the engine automates the identification and profiling of malicious behavior patterns using distributed computing.
