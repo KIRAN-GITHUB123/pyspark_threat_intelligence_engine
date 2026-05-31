@@ -57,4 +57,4 @@ This pipeline solves critical "last-mile" challenges in modern cybersecurity ope
 
 ## Research Context
 
-This tool was developed as part of a formal study into analyzing temporal changes in global internet scans. For detailed methodology and performance analysis across datasets like CTU-13 and CIC-Collection, please refer to the project documentation.
+This tool was developed as part of a formal study into analyzing threat profiles in global network traffic. For detailed methodology and performance analysis across datasets like CTU-13 and CIC-Collection, please refer to the project documentation.
